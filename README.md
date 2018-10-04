@@ -1,2 +1,1 @@
-# FifaQuiz
-Html , css and PhP 
+# Quiz
